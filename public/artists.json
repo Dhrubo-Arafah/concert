@@ -1,0 +1,108 @@
+[
+    { "key":1 ,
+        "image":"https://yt3.ggpht.com/ytc/AAUvwngNuALcOzl4UR5uk5YvnMORyWc3uKfiA-lboMvAIQ=s900-c-k-c0x00ffffff-no-rj",
+        "name":"Jhankar Mahbub",
+        "country":"USA",
+        "nationality":"Bangladeshi",
+        "genre":"Hip hop",
+        "contract":900000
+    },
+    {
+        "key":2 ,
+        "image":"https://pbs.twimg.com/profile_images/1177433020225032193/1loE2ws__400x400.jpg",
+        "name":"Pitbul",
+        "country":"USA",
+        "nationality":"American",
+        "genre":"Rap",
+        "contract":300000
+    },
+    {
+        "key":3 ,
+        "image":"https://www.observerbd.com/2018/01/14/1515953088.jpg",
+        "name":"Fuad",
+        "country":"USA",
+        "nationality":"Bangladeshi",
+        "genre":"R&B",
+        "contract":600000
+    },
+    {
+        "key":4 ,
+        "image":"https://i1.sndcdn.com/avatars-000063097666-yxrmcc-t500x500.jpg",
+        "name":"Porshi",
+        "country":"Bangladesh",
+        "nationality":"Bangladeshi",
+        "genre":"pop",
+        "contract":300000
+    },
+    {
+        "key":5 ,
+        "image":"https://i1.sndcdn.com/avatars-000244577522-oqy1p7-t500x500.jpg",
+        "name":"Hridoy Khan",
+        "country":"Bangladesh",
+        "nationality":"Bangladeshi",
+        "genre":"Techno",
+        "contract":400000
+    },
+    {
+        "key":6 ,
+        "image":"https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2019/11/Arijit-Singh-Contact-Information.jpg",
+        "name":"Arijit Singh",
+        "country":"India",
+        "nationality":"Indian",
+        "genre":"Clasical",
+        "contract":300
+    },
+    { "key":7 ,
+        "image":"https://yt3.ggpht.com/ytc/AKedOLQTaf22F491M6ifriCy2iu5z25NRGITWz6Se761xQ=s900-c-k-c0x00ffffff-no-rj",
+        "name":"Akon",
+        "country":"USA",
+        "nationality":"American",
+        "genre":"Hip hop",
+        "contract":1000
+    },
+    {
+        "key":8 ,
+        "image":"https://pbs.twimg.com/profile_images/1376911731553828866/jAG5hoM-.jpg",
+        "name":"Tahsan",
+        "country":"Bangladesh",
+        "nationality":"Bangladeshi",
+        "genre":"Classical",
+        "contract":300000
+    },
+    {
+        "key":9 ,
+        "image":"https://st1.bollywoodlife.com/wp-content/uploads/2021/06/Sonu-Nigam.jpg",
+        "name":"Sonu Nigam",
+        "country":"India",
+        "nationality":"Indian",
+        "genre":"Clasical",
+        "contract":10
+    },
+    {
+        "key":10 ,
+        "image":"https://pbs.twimg.com/profile_images/1400303074179178496/JmUPrC-o.jpg",
+        "name":"BTS",
+        "country":"North Korea",
+        "nationality":"North Korean",
+        "genre":"Uncategorized",
+        "contract":0
+    },
+    {
+        "key":11 ,
+        "image":"https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2020/12/Momoland.jpg",
+        "name":"Momoland",
+        "country":"South Korea",
+        "nationality":"North Korean",
+        "genre":"K-POP",
+        "contract":40
+    },
+    {
+        "key":12 ,
+        "image":"https://direct.rhapsody.com/imageserver/images/alb.370609511/500x500.jpg",
+        "name":"Arfin Rumey",
+        "country":"Bangladesh",
+        "nationality":"Bangladeshi",
+        "genre":"Folk",
+        "contract":300000
+    }
+]
